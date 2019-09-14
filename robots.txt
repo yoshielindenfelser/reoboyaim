@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohsiashohj.stainedblood.com/sitemap.xml
